@@ -1,3 +1,13 @@
+# ARG Version
+
+librealsense version `2.53.1`
+
+```bash
+RealSense ROS v2.3.2
+Built with LibRealSense v2.50.0
+Running with LibRealSense v2.50.0
+```
+
 # ROS Wrapper for Intel&reg; RealSense&trade; Devices
 These are packages for using Intel RealSense cameras (D400 series SR300 camera and T265 Tracking Module) with ROS.
 
